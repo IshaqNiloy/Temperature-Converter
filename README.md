@@ -1,2 +1,2 @@
 # Temperature-Converter
-<img src = "temperature_converter.PNG">
+<img src = "images/temperature_converter.PNG">
